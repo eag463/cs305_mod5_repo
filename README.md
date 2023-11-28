@@ -5,6 +5,6 @@ This assignment/repository is to demonstrate understanding of the best practices
 ## Author  
 Esteban Grijalva, @eag463, eag463@nau.edu 
 ## Collaborators  
-Estrella Pereze, @star3009, emp369@nau.edu
-Kaiden Etsitty, @nedntheneedlefish, kbe44@nau.edu
-Ella Conolly
+Estrella Pereze, @star3009, emp369@nau.edu  
+Kaiden Etsitty, @nedntheneedlefish, kbe44@nau.edu  
+Ella Conolly, exc8@nau.edu  
