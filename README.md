@@ -8,3 +8,5 @@ Esteban Grijalva, @eag463, eag463@nau.edu
 Estrella Pereze, @star3009, emp369@nau.edu  
 Kaiden Etsitty, @nedntheneedlefish, kbe44@nau.edu  
 Ella Conolly, exc8@nau.edu  
+## Subheading
+Adding module 7 to the project
